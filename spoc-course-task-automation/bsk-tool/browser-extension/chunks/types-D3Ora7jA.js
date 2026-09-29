@@ -1,0 +1,1 @@
+var e=`bsk/long-screenshot`,t=`longScreenshotState`,n=e=>e?.phase===`preparing`||e?.phase===`capturing`||e?.phase===`paused`||e?.phase===`saving`;export{t as n,n as r,e as t};
